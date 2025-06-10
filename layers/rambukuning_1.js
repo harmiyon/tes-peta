@@ -1,0 +1,1 @@
+var json_rambukuning_1 = {"type":"FeatureCollection","name":"rambukuning_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAME":"RAMSU KUNING","LAYER":"Unknown Point Feature","MAP_NAME":"RAMSU KUNING"},"geometry":{"type":"Point","coordinates":[114.848355555651338,-1.859572222221827]}}]}
